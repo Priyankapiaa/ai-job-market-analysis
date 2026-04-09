@@ -53,7 +53,7 @@ The goal is to understand how AI is reshaping employment and what it means for f
 - 🚀 Top 10 Fastest Growing Jobs  
 - 📉 Top 10 Declining Jobs  
 - ⚠️ Automation Risk by Job Title
-- ![Dashboard Page 2](images/page2.png)
+![Dashboard Page 2](images/page2.png)
 
 ---
 
@@ -74,12 +74,6 @@ The goal is to understand how AI is reshaping employment and what it means for f
 - Workforce strategies should focus on **high-skill roles**
 - Individuals should shift toward **analytical and technical skills**
 - Companies need to prepare for **AI-driven workforce transformation**
-
----
-
-## 📸 Dashboard Preview
-
-*(Add your Power BI screenshots here)*
 
 ---
 
