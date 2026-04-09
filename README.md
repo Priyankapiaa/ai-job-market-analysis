@@ -47,13 +47,17 @@ The goal is to understand how AI is reshaping employment and what it means for f
 - Salary vs Risk Analysis
 - Top 10 Job Growth (2024 vs 2030)
 - Job Distribution by Location
+- 
+![Dashboard Page 1](images/page1.png)
 
----
+![Dashboard Page 2](images/page2.png)
 
 ### 🔹 Page 2 — Job-Level Impact Analysis
 - 🚀 Top 10 Fastest Growing Jobs  
 - 📉 Top 10 Declining Jobs  
-- ⚠️ Automation Risk by Job Title  
+- ⚠️ Automation Risk by Job Title
+
+- ![Dashboard Page 2](images/page2.png)
 
 ---
 
